@@ -1,2 +1,2 @@
-# dsa-with-cpp
-My C++ DSA learning journey — practice problems, algorithms, and solutions.
+# Array-Dsa-cpp  
+My C++ DSA in array — practice problems, algorithms, and solutions.
